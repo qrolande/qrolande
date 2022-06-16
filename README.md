@@ -1,6 +1,6 @@
 - Hello there!
-- My mail -> s.baev.92@gmail.com
-- My Telegram -> https://t.me/who_let_the_alpaca_out
+- Mail -> s.baev.92@gmail.com
+- Telegram -> https://t.me/who_let_the_alpaca_out
 	
 
 [![qrolande's 42 stats](https://badge42.vercel.app/api/v2/cl4h96bga005509jk80j4ybf8/stats?cursusId=21&coalitionId=104)](https://github.com/JaeSeoKim/badge42)
