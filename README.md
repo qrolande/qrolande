@@ -1,4 +1,3 @@
-# Description
 - Hello there!
 - My mail -> s.baev.92@gmail.com
 - My Telegram -> https://t.me/who_let_the_alpaca_out
