@@ -20,7 +20,7 @@
 | [pipex](https://github.com/qrolande/pipex)                | Project explaining how "pipes" work in C  | dup, dup2, execve, exit, fork, pipe                       |
 | therd circle                                              |                                           |                                                           |
 | [philosophers](https://github.com/qrolande/philosophers)  | Philosophers for multithreading           | mutex,pthread create/join/ detach, semaphore, fork        |
-| [minishell](https://github.com/qrolande/minishell)        |  my own standart terminal bash            | fork, execuve, dup2, pipe, termacps, opendir, kill, wait  |
+| [minishell](https://github.com/qrolande/minishell)        |  my own standart terminal bash            | fork, execve, dup2, pipe, opendir, kill, wait  |
 | fourth circle                                             |                                           |                                                           |
 | [cub3D](https://github.com/qrolande/cpp)                  | Second graphic project (mac OS)           |  minilibx, FPS                                            |
 | [CPP](https://github.com/qrolande/cpp)                    | CPP modules                               |  basic OOP C++                                            |
